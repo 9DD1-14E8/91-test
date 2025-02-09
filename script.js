@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-    console.log("91 Club Demo Loaded");
+    console.log("Subodh Sonar 2.2 Loaded");
 });
